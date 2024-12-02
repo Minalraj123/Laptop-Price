@@ -50,6 +50,9 @@ Use scatter plots or regression plots to show the relationship between laptop sp
 # Python Libraries Used:
 
 Pandas for data manipulation and cleaning.
+
 Matplotlib/Seaborn/Plotly for data visualization.
+
 Scikit-learn for machine learning (if performing prediction).
+
 NumPy for numerical operations.
